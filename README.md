@@ -1,8 +1,9 @@
-# 3D Structure-guided Network for Tooth Alignment in 2D Photograph (BMVC 2023)
+# Dental Smile Design
 
-This repository includes our code for the paper **_'3D Structure-guided Network for Tooth Alignment in 2D Photograph'_** in BMVC 2023.
+<!-- This repository includes our code for the paper **_'3D Structure-guided Network for Tooth Alignment in 2D Photograph'_** in BMVC 2023. -->
+This repository contains code for a tooth alignment function adopted from the paper titled **_'3D Structure-guided Network for Tooth Alignment in 2D Photograph'_**
 
-### [Paper](https://arxiv.org/abs/2310.11106) | [Code](https://github.com/douyl/2DToothAlignment/tree/master)
+### Original [Paper](https://arxiv.org/abs/2310.11106) | [Code](https://github.com/douyl/2DToothAlignment/tree/master)
 
 ## Method overview
 
@@ -82,7 +83,7 @@ Graha Natura Before Pic [Air Table](https://airtable.com/appdHxBfw6UPxDGHd/tbl08
 
 ## Citation
 
-If our code or models help your work, please cite our [paper](https://arxiv.org/abs/2310.11106):
+If our code or models help your work, please cite [paper](https://arxiv.org/abs/2310.11106):
 
 ```BibTeX
 @misc{dou20233d,
